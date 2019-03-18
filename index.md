@@ -1,14 +1,14 @@
 # Title of the artwork
 ## Artist name / SID
 
-> Who thinks his great achievements poor  
-> Shall find his vigour long endure.  
-> Of greatest fulness, deemed a void,  
-> Exhaustion ne'er shall stem the tide.  
-> Do thou what's straight still crooked deem;  
-> Thy greatest art still stupid seem,  
-> And eloquence a stammering scream.  
-
-> Constant action overcomes cold; being still overcomes heat. Purity  
-> and stillness give the correct law to all under heaven.
-
+> She who is centered in the Tao  
+> can go where she wishes, without danger.  
+> She perceives the universal harmony,  
+> even amid great pain,  
+> because she has found peace in her heart. Music or the smell of good cooking  
+> may make people stop and enjoy.  
+> But words that point to the Tao  
+> seem monotonous and without flavor.  
+> When you look for it, there is nothing to see.  
+> When you listen for it, there is nothing to hear.  
+> When you use it, it is inexhaustible. 
