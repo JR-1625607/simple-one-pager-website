@@ -12,7 +12,8 @@ https://youtu.be/UmX4kyB2wfg
 
 * Understand how to turn a repository into GitHub pages i.e. static website.
 
-- https://pages.github.com;
+https://pages.github.com;
+
 - you need an index.html or index.md to turn your repo into GitHub Pages; 
 
 * Understand the difference between forking, cloning and downloading a repository.
