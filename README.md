@@ -7,10 +7,27 @@
 *Basic: GitHub Pages, Html and Markdown Syntax*
 
 * Understand what a repository in GitHub is
-https://pages.github.com
+
+https://youtu.be/UmX4kyB2wfg
 
 * Understand how to turn a repository into GitHub pages i.e. static website.
+
+- https://pages.github.com;
+- you need an index.html or index.md to turn your repo into GitHub Pages; 
+
 * Understand the difference between forking, cloning and downloading a repository.
+
+- demo all (cloning only with localhost); 
+
 * Understand the basics of Markdown and how it relates to html.
+
+https://youtu.be/2JE66WFpaII
+
+https://github.github.com/gfm/
+
+https://babelmark.github.io/
+
 * Understand the relevance of a .css file for an aesthetic layout.
+
+
 * Customise the style and arrangement of their one pager website.
