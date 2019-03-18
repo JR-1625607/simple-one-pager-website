@@ -1,0 +1,242 @@
+
+/* @import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500'; */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  /* margin: 0; */
+  padding: 0;
+  border: 0;
+  font-weight:normal;
+  font-style:normal;
+  font-size: 100%;
+  line-height:1;
+  font-family:inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+ul, li {
+  list-style: circle;
+  padding-left: 16px;
+  margin: 10px 0;
+}
+
+blockquote {
+  border-left: 2px solid #ccc;
+  margin: 1.5em 0;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote p {
+  display: inline;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* customized by tedor*/
+body {
+  margin: 0 auto;
+  max-width: 35em;
+  padding: 0.5em 0.5em;
+  color: #566b78;
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: 200%;
+  margin-top: 0.5em;
+}
+
+h2 {
+    font-size: 130%;
+    margin-bottom: 0.2em;
+    color: #333;
+}
+
+h3 {
+    font-size: 105%;
+    margin-top: 1em;
+    margin-bottom: 0.2em;
+    color: #333;
+}
+
+a {
+  color: #048ABF;
+  text-decoration: none;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+
+/* https://color.adobe.com/Ocean-Sunset-color-theme-10006414/edit/?copy=true&base=0&rule=Custom&selected=1&name=Copy%20of%20Ocean%20Sunset&mode=rgb&rgbvalues=0.25098,0.34902,0.321569,0.611765,0.607843,0.478431,1,0.827451,0.576471,1,0.592157,0.309804,0.960784,0.309804,0.160784&swatchOrder=0,1,2,3,4 */
+
+.date {
+color: #333;
+}
+
+.tags {
+color: #6E6E60;
+}
+
+.short {
+color: #9C9B7A;
+}
+
+/* responsive images */
+img {
+    width: 100%;
+    height: auto;
+}
+
+/* lists */
+ul {
+  list-style: none;
+  margin-bottom: 0.5em;
+}
+
+/* iframe */
+.myIframe {
+     position: relative;
+     padding-bottom: 65.25%;
+     padding-top: 30px;
+     height: 0;
+     overflow: auto;
+     -webkit-overflow-scrolling:touch; //<<--- THIS IS THE KEY
+     border: solid black 1px;
+}
+.myIframe iframe {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+}
+
+/* collapsible from http://bernholdtech.blogspot.com/2013/04/very-simple-pure-css-collapsible-list.html */
+
+.collapsibleList li > input + * {
+display: none;
+padding: 0.3em;
+}
+
+.collapsibleList li > input:checked + * {
+display: block;
+}
+
+.collapsibleList li > input {
+display: none;
+}
+
+.collapsibleList label {
+cursor: pointer;
+}
+
+
+code,
+pre {
+  background: #f5f7f9;
+  border-bottom: 1px solid #d8dee9;
+  color: #a7adba;
+}
+
+pre {
+  border-left: 2px solid #69c;
+}
+
+
+/* 2.5 portfolio */
+.portfolio{
+background-color:#ffffff;
+}
+.portfolio-wrapper .border-center{
+height:1px;
+width:335px;
+margin:0 auto;
+background:#0e0e0e;
+}
+.portfolio-wrapper h2 {
+text-transform: uppercase;
+margin: 10px 0px;
+}
+.portfolio-item .portflio-item-wrap{
+position: relative;
+max-height: 335px;
+overflow: hidden;
+}
+.portfolio-item img{
+width:100%;
+max-height: 335px;
+position:relative;
+}
+.portfolio-item{
+width:33.33%;
+min-height: 1px;
+padding-right: 15px;
+padding-left: 15px;
+position:relative;
+z-index:1;
+cursor:pointer;
+margin-bottom:30px;
+}
+.portfolio-item .portfolio-overlay{
+position: absolute;
+left: 0;
+top: 0;
+z-index: 2;
+bottom: 0;
+right: 0;
+background-color: #f0f0f0;
+opacity:0;
+transition:1s all;
+padding-top: 130px;
+}
+.portfolio-item:hover .portfolio-overlay{
+opacity:1;
+}
+.portfolio-item .portfolio-overlay img{
+max-width: 80px;
+height: auto;
+width: 100%;
+}
+.portfolio-filters{
+margin-bottom:30px;
+}
+.portfolio-filters button{
+font-size: 16px;
+text-transform: capitalize;
+font-weight: 700;
+-webkit-appearance: none;
+background: none;
+border: 0;
+
+}
+.portfolio-filters button:hover{
+color: rgba(0,0,0,.6);
+
+} 
