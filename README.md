@@ -27,8 +27,11 @@
     https://guides.github.com/features/mastering-markdown/
 
     https://babelmark.github.io/
+    
+    - page source; 
 
 * Understand the relevance of a .css file for an aesthetic layout.
 
+- add css file to see change; 
 
 * Customise the style and arrangement of their one pager website.
