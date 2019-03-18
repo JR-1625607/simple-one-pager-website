@@ -24,7 +24,7 @@
 
     https://youtu.be/2JE66WFpaII
 
-    https://github.github.com/gfm/
+    https://guides.github.com/features/mastering-markdown/
 
     https://babelmark.github.io/
 
