@@ -32,6 +32,6 @@
 
 * Understand the relevance of a .css file for an aesthetic layout.
 
-    - find the difference between the index and the test-style page;
+    - find the difference between the index and the 'something-else' page;
 
 * Customise the style and arrangement of their one pager website.
