@@ -14,19 +14,19 @@
 
     https://pages.github.com;
 
-- you need an index.html or index.md to turn your repo into GitHub Pages; 
+    - note: you need an index.html or index.md to turn your repo into GitHub Pages; 
 
 * Understand the difference between forking, cloning and downloading a repository.
 
-- demo all (cloning only with localhost); 
+    - demo all (cloning only with localhost); 
 
 * Understand the basics of Markdown and how it relates to html.
 
-https://youtu.be/2JE66WFpaII
+        https://youtu.be/2JE66WFpaII
 
-https://github.github.com/gfm/
+        https://github.github.com/gfm/
 
-https://babelmark.github.io/
+        https://babelmark.github.io/
 
 * Understand the relevance of a .css file for an aesthetic layout.
 
