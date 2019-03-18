@@ -8,11 +8,11 @@
 
 * Understand what a repository in GitHub is
 
-https://youtu.be/UmX4kyB2wfg
+    https://youtu.be/UmX4kyB2wfg
 
 * Understand how to turn a repository into GitHub pages i.e. static website.
 
-https://pages.github.com;
+    https://pages.github.com;
 
 - you need an index.html or index.md to turn your repo into GitHub Pages; 
 
