@@ -2,7 +2,8 @@
 
 ## logbook
 
-### Basic: GitHub Pages, Html and Markdown Syntax
+2019-03-18
+*Basic: GitHub Pages, Html and Markdown Syntax*
 * Understand what a repository in GitHub is.
 * Understand how to turn a repository into GitHub pages i.e. static website.
 * Understand the difference between forking, cloning and downloading a repository.
