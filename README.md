@@ -22,11 +22,11 @@
 
 * Understand the basics of Markdown and how it relates to html.
 
-        https://youtu.be/2JE66WFpaII
+    https://youtu.be/2JE66WFpaII
 
-        https://github.github.com/gfm/
+    https://github.github.com/gfm/
 
-        https://babelmark.github.io/
+    https://babelmark.github.io/
 
 * Understand the relevance of a .css file for an aesthetic layout.
 
