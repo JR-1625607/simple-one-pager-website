@@ -34,4 +34,4 @@
 
     - find the difference between the 'index' and the 'something-else' page;
 
-* Customise the style and arrangement of their one pager website.
+* Customise the style and arrangement
