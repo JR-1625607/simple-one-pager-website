@@ -2,8 +2,8 @@
 ## Artist name / SID
 
 > Who thinks his great achievements poor
-Shall find his vigour long endure.
-Of greatest fulness, deemed a void,
+> Shall find his vigour long endure.
+> Of greatest fulness, deemed a void,
 Exhaustion ne'er shall stem the tide.
 Do thou what's straight still crooked deem;
 Thy greatest art still stupid seem,
