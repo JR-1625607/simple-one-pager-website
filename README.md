@@ -35,3 +35,9 @@
     - find the difference between the 'index' and the 'something-else' page;
 
 * Customise the style and arrangement
+
+## resources
+
+- https://learn.shayhowe.com/html-css/
+- https://www.w3schools.com
+- https://jgthms.com/web-design-in-4-minutes/
